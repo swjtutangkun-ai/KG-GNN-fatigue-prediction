@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+
+# Temporary manuscript copy created during code reorganization.
+_manuscript_RS_tmp.docx
